@@ -1,0 +1,52 @@
+#hero .h-container h1 {
+	font-size: 2.5rem;
+}
+
+#showcase-s .service .items {
+	display: block;
+}
+
+#fresh-b .f-container {
+	grid-template-columns: 1fr;
+}
+
+#fresh-b .f-container img {
+	display: none;
+}
+
+#g-coffee .g-container {
+	grid-template-columns: 1fr;
+}
+
+#shop .s-container {
+	padding: 0;
+}
+
+.s-container .s-content h1 {
+	font-size: 2.5rem;
+}
+
+.d-container {
+	display: block;
+}
+
+.p-container {
+	padding: 3rem;
+}
+
+.p-content {
+	display: block;
+}
+
+.a-container {
+	display: block;
+}
+
+.m-container {
+	display: block;
+}
+
+#main-footer .footer-container {
+	grid-template-columns: 1fr;
+	height: 50vh;
+}
